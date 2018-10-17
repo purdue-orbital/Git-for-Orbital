@@ -46,7 +46,6 @@ $ git add .
 ```
 Where `.` refers to all items within a directory. To add just one file, simply replace `.` with the name of the file you want to add (`git add my_file.c`)
 
-When committing
 
 
 
