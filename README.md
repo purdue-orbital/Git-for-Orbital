@@ -62,4 +62,4 @@ $ git commit -m "Your custom commit message here"
 $ git push orbital master
 ```
 
-More information on all of this can be found in our [wiki](https://github.com/purdue-orbital/Git-for-Orbital/wiki)
+__More information on all of this can be found in our [wiki](https://github.com/purdue-orbital/Git-for-Orbital/wiki).__
