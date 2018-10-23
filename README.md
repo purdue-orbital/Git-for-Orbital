@@ -1,9 +1,7 @@
 # Basics of Git and Version Control
 This document will give you the basics on Git, and how to push to and pull from the Github repository for Purdue Orbital.
-## What is Version Control?
-Version control takes "snapshots" of the current state of your code in order to save changes, revert changes, and create working versions of software for current and future use. Another huge benefit is multiple people being able to simultaneously work on a piece of code at the same time.
 ## Why use Version Control?
-Imagine this: typing `git pull` to pull the newest version of code, or going to the drive folder and wondering if the newest version is `test_code_fixed_NEW_FINAL.cpp` or `test_code_NEW_NEW_FINAL(1).cpp`. Enough said.
+Imagine this: typing `git pull` to pull the newest version of code, or going to the drive folder and wondering if the newest version is `test_code_fixed_NEW_FINAL.cpp` or `test_code_NEW_FINAL_REALFINAL(1).cpp`. Enough said.
 ## Getting Started
 Git is one of the most popular version control systems in the software world, and that is the tool we will utilize in this organization.
 ### Getting Git
@@ -25,27 +23,42 @@ Open your terminal, and type:
 $ sudo apt-get install git
 ```
 
-## Creating a GitHub Account
-In order to pull shared files within our organizations, and to push changes to those same files, you must have a GitHub account. GitHub is simply an online resource that holds your git repositories on servers that can be accessed anywhere. Go to https://github.com to create a free account with your Purdue email. 
 
-## Creating a repository
+## Adding Code to the an Orbital Repository 
 Lets say you are going to create a new project to add to git. This is relatively straight forward. Navigate to the desired location, and use your shell (Git BASH for Windows, Terminal for Mac) to complete the following: 
 
-
-
-To initialize an empty git repository in the current directory:
+1) To initialize an empty git repository in the current directory:
 
 ```shell
 $ git init
 ```
 
-To add all files within that directory to the git repository:
+2) To add all files within that directory to the git repository:
 
 ```shell
 $ git add .
 ```
-Where `.` refers to all items within a directory. To add just one file, simply replace `.` with the name of the file you want to add (`git add my_file.c`)
 
+3) To commit your current changes:
+```shell
+$ git commit -m "Your custom commit message here"
+```
 
+4) To add a remote to point to your GitHub repo:
+```shell
+$ git remote add orbital https://github.com/purdue-orbital/my-new-repo-on-github.git
+```
+
+5) To push your changes to you GitHub remote:
+```shell
+$ git push orbital master
+```
+
+## Committing and Pushing New Changes on an Existing Remote
+```shell
+$ git add .
+$ git commit -m "Your custom commit message here"
+$ git push orbital master
+```
 
 
