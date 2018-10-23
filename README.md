@@ -24,8 +24,8 @@ $ sudo apt-get install git
 ```
 
 
-## Adding Code to the an Orbital Repository 
-Lets say you are going to create a new project to add to git. This is relatively straight forward. Navigate to the desired location, and use your shell (Git BASH for Windows, Terminal for Mac) to complete the following: 
+## Adding Code to an Orbital Repository 
+Let’s say you are going to create a new project to add to git. This is relatively straight forward. Navigate to the desired location, and use your shell (Git BASH for Windows, Terminal for Mac) to complete the following: 
 
 1) To initialize an empty git repository in the current directory:
 
@@ -55,10 +55,11 @@ $ git push orbital master
 ```
 
 ## Committing and Pushing New Changes on an Existing Remote
+If you have already set a remote, then the process is even more simple:
 ```shell
 $ git add .
 $ git commit -m "Your custom commit message here"
 $ git push orbital master
 ```
 
-
+More information on all of this can be found in our [wiki](https://github.com/purdue-orbital/Git-for-Orbital/wiki)
