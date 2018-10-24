@@ -59,7 +59,8 @@ If you have already set a remote, then the process is even more simple:
 ```shell
 $ git add .
 $ git commit -m "Your custom commit message here"
-$ git push orbital master
+$ git push <your_remote_name> master
 ```
+Your remote name will either be `origin` or `orbital`. 
 
 __More information on all of this can be found in our [wiki](https://github.com/purdue-orbital/Git-for-Orbital/wiki).__
