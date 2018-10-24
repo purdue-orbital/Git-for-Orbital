@@ -46,12 +46,12 @@ $ git commit -m "Your custom commit message here"
 
 4) To add a remote to point to your GitHub repo:
 ```shell
-$ git remote add orbital https://github.com/purdue-orbital/my-new-repo-on-github.git
+$ git remote add origin https://github.com/purdue-orbital/my-new-repo-on-github.git
 ```
 
 5) To push your changes to you GitHub remote:
 ```shell
-$ git push orbital master
+$ git push origin master
 ```
 
 ## Committing and Pushing New Changes on an Existing Remote
