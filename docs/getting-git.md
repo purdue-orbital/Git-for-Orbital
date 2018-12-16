@@ -1,4 +1,4 @@
-## Getting Git
+## How do I get Git?
 Git is one of the most popular version control systems in the software world, and that is the tool we will utilize in this organization.
 
 *Note: This process is different if you have a mac or PC. Please follow the instructions accordingly.*
