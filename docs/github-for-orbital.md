@@ -33,7 +33,7 @@ Keep in mind that forking is __public__, and everyone will be able to see that y
 
 ### Cloning or Forking a Repository
 
-![Cloning a Repo](https://github.com/purdue-orbital/Git-for-Orbital/blob/master/docs/assets/Repository_Clone.jpg)
+![Cloning a Repo](/assets/Repository_Clone.jpg)
 
 This is the page for an individual repository. It contains all the files and directories for the project, as well as the number of commits, branches, and contributors. Clicking any file name shows the code in its raw form. __Arrow 1__ is the button for cloning the repository, and __Arrow 2__ is the link to copy in order to clone the repository. 
 
@@ -41,15 +41,15 @@ __Arrow 3__ is where you fork a repository to your personal GitHub. Once you for
 ___
 ### Creating a New Repository
 
-![Home_Page](https://github.com/kcsodetz/Git-for-Orbital/blob/master/image_src/Home_Page_Labeled.jpg)
+![Home_Page](/assets/Home_Page_Labeled.jpg)
 
 As stated before, **Arrow 1** shows the location of the _New Repository_ button and **Arrow 2** shows some repositories currently present on the page. Click the button shown by **Arrow 1** to begin creating a new repository.
 
-![New_Repo_Page](https://github.com/purdue-orbital/Git-for-Orbital/blob/master/docs/assets/Create_New_Repo.JPG)
+![New_Repo_Page](/assets/Create_New_Repo.JPG)
 
 You'll be greeted with this page. Go ahead and give your repository a name (if the name has multiple words, then use dashes '-' instead of spaces or underscores), a description, and always make the repository public. You can choose to add a README (set of instructions on how to use the contents of the repository), and simply click "Create Repository" to finalize.
 #### Empty GitHub Repository
-![Repo_Remote](https://github.com/purdue-orbital/Git-for-Orbital/blob/master/docs/assets/Repo_Remote.jpg)
+![Repo_Remote](/assets/Repo_Remote.jpg)
 
 Once you create an empty repository, you'll be greeted with this page. Don't worry, it looks complicated, but it's not too bad once you get the hang of it. __Just copy the link shown by the red arrow and save it for later. This crucial for adding code in the future!__ Congrats! You have created a repository on the Purdue Orbital page. 
 ___
