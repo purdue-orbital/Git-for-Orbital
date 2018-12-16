@@ -4,7 +4,7 @@ Once you have your code written on your local machine, you can then add it to th
 
 ## Creating an Empty Git Repo
 
-1) Open your shell. For Mac, use terminal (<kbd>command</kbd> + <kbd>space</kbd> and by typing `terminal`). For PC, open up Git BASH. If you need to install git, check out the [Installing Git](https://github.com/purdue-orbital/Git-for-Orbital/wiki/Installing-Git) page. 
+1) Open your shell. For Mac, use terminal (<kbd>command</kbd> + <kbd>space</kbd> and by typing `terminal`). For PC, open up Git BASH. If you need to install git, check out the [Installing Git](./getting-git.html) page. 
 
 2) Navigate to the directory from the command line. For example, if the path for the directory is `Documents/Code/my-project`, the command to get to that directory would be:
 ```
@@ -42,7 +42,7 @@ Your file changes are now being tracked by git. This essentially means that ever
 
 ## Point Local Git Repository to GitHub Repository
 
-To point your local repo to the one created on github.com/purdue-orbital, we need to reference the GitHub repository you created earlier on the website (refer [here](https://github.com/purdue-orbital/Git-for-Orbital/wiki/GitHub-for-Orbital#empty-github-repository) if you don't remember).  For example, if you wanted to add the `Test-Repository` repo on Github, the command to do so would be:
+To point your local repo to the one created on github.com/purdue-orbital, we need to reference the GitHub repository you created earlier on the website (refer [here](./github-for-orbital.html#empty-github-repository) if you don't remember).  For example, if you wanted to add the `Test-Repository` repo on Github, the command to do so would be:
 ```
 $ git remote add origin https://github.com/purdue-orbital/Test-Repository.git
 ``` 
@@ -56,4 +56,4 @@ $ git push origin master
 ```
 Your code is now on the repository on our GitHub page! 
 ## Code Maintenance
-Maintaining your code is also fairly simple, you would simply skip the "Creating an Empty Git Repo" and "Point Local Git Repository to GitHub Repository" steps. Whenever you make changes to your code in the repository, you will need to commit and push those changes to see them on the page. Refer to the [Committing to a Repository](https://github.com/purdue-orbital/Git-for-Orbital/wiki/Adding-to-the-Organization#committing-to-a-repository) and [Pushing Changes to GitHub](https://github.com/purdue-orbital/Git-for-Orbital/wiki/Adding-to-the-Organization#pushing-changes-to-github) steps.
+Maintaining your code is also fairly simple, you would simply skip the "Creating an Empty Git Repo" and "Point Local Git Repository to GitHub Repository" steps. Whenever you make changes to your code in the repository, you will need to commit and push those changes to see them on the page. Refer to the [Committing to a Repository](./adding-to-orbital.html#committing-to-a-repository) and [Pushing Changes to GitHub](./adding-to-orbital#pushing-changes-to-github) steps.
