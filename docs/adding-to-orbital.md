@@ -49,7 +49,7 @@ $ git remote add origin https://github.com/purdue-orbital/Test-Repository.git
 * `remote` simply refers to the fact that we are adding a web address to point our code to
 *  `origin` is the name of the remote repository you are going to be pushing to. The naming convention is `origin`.
 
- ## Pushing Changes to GitHub
+## Pushing Changes to GitHub
 Finally, to get all those changes to the GitHub page, for a remote named `origin`, run:
 ```
 $ git push origin master

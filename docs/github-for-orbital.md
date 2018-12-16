@@ -8,7 +8,7 @@ Basically, it's your best friend when it comes to writing, sharing, and maintain
 
 ## The Home Page
 
-![Home_Page](https://github.com/kcsodetz/Git-for-Orbital/blob/master/docs/assets/Home_Page_Labeled.jpg)
+![Home_Page](/assets/Home_Page_Labeled.jpg)
 
 The Home Page can always be found at https://github.com/purdue-orbital. This is where all of Purdue Orbital's repositories are stored, and where you will go to create new repositories to upload. **Arrow 1** shows the location of the _New Repository_ button and **Arrow 2** shows some repositories currently present on the page. Instructions on creating a new repository can be found [here](#creating-a-new-repository).
 
@@ -33,7 +33,7 @@ Keep in mind that forking is __public__, and everyone will be able to see that y
 
 ### Cloning or Forking a Repository
 
-![Cloning a Repo](https://github.com/kcsodetz/Git-for-Orbital/blob/master/docs/assets/Repository_Clone.jpg)
+![Cloning a Repo](https://github.com/purdue-orbital/Git-for-Orbital/blob/master/docs/assets/Repository_Clone.jpg)
 
 This is the page for an individual repository. It contains all the files and directories for the project, as well as the number of commits, branches, and contributors. Clicking any file name shows the code in its raw form. __Arrow 1__ is the button for cloning the repository, and __Arrow 2__ is the link to copy in order to clone the repository. 
 
