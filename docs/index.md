@@ -1,4 +1,4 @@
-# Git and GitHub: What its all about
+# Git and GitHub: What it's all about
 
 Welcome to the _Git for Orbital_ Repository Wiki Page!
 
