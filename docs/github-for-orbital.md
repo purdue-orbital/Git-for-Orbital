@@ -38,7 +38,7 @@ Keep in mind that forking is __public__, and everyone will be able to see that y
 This is the page for an individual repository. It contains all the files and directories for the project, as well as the number of commits, branches, and contributors. Clicking any file name shows the code in its raw form. __Arrow 1__ is the button for cloning the repository, and __Arrow 2__ is the link to copy in order to clone the repository. 
 
 __Arrow 3__ is where you fork a repository to your personal GitHub. Once you fork the repository, navigate to your personal page, and follow the steps above to clone the repository.
-___
+
 ### Creating a New Repository
 
 ![Home_Page](/assets/Home_Page_Labeled.jpg)
@@ -52,6 +52,6 @@ You'll be greeted with this page. Go ahead and give your repository a name (if t
 ![Repo_Remote](/assets/Repo_Remote.jpg)
 
 Once you create an empty repository, you'll be greeted with this page. Don't worry, it looks complicated, but it's not too bad once you get the hang of it. __Just copy the link shown by the red arrow and save it for later. This crucial for adding code in the future!__ Congrats! You have created a repository on the Purdue Orbital page. 
-___
+
 ## Closing Remarks
 Now that you have a fresh repository, you can now begin to add your code for everyone to view, contribute to, and download. To learn how to add your code to GitHub, go to the [Adding to the Organization](./adding-to-orbital.html) page.
