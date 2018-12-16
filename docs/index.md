@@ -1,3 +1,5 @@
+# Git and GitHub: What its all about
+
 Welcome to the _Git for Orbital_ Repository Wiki Page!
 
 This wiki will act as a guide for both current and new members of Purdue Orbital and is open for anyone to add content or make changes.
