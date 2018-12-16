@@ -1,18 +1,18 @@
-## How do I get Git?
+# How do I get Git?
 Git is one of the most popular version control systems in the software world, and that is the tool we will utilize in this organization.
 
 *Note: This process is different if you have a mac or PC. Please follow the instructions accordingly.*
-### Windows PC
+## Windows PC
 Go to the link below, download git for windows, and click "Next" through the setup wizard.
 
 https://gitforwindows.org/
-### Mac OS
+## Mac OS
 Go to your terminal. This can be accomplished by hitting <kbd>command</kbd> + <kbd>space</kbd> and by typing `terminal`. Git should already be installed on Mac OS, and you can check your version by typing
 
 ```shell
 $ git --version
 ```
-### Ubuntu or other Debian-based systems
+## Ubuntu or other Debian-based systems
 Open your terminal and type:
 
 ```shell
