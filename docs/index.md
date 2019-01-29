@@ -10,7 +10,7 @@ Ensure that:
 
 1) You have git installed on your computer. Don't know how? Check out the [Installing Git](./getting-git.html) page
 
-2) You have a GitHub account. You can create a free one with your Purdue email at https://github.com/join
+2) You have a GitHub account. You can create a free one with your Purdue email at [https://github.com/join](https://github.com/join).
 
 3) You are added to the Purdue Orbital Organization on GitHub. Make sure to send a Slack message to __Ken Sodetz__ with your Purdue email (or your GitHub email)
 
