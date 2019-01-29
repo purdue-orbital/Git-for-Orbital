@@ -63,4 +63,4 @@ $ git push <your_remote_name> master
 ```
 Your remote name will either be `origin` or `orbital`. 
 
-__More information on all of this can be found in our [wiki](https://purdue-orbital.github.io/Git-for-Orbital/).__
+__More information on all of this can be found in our [wiki](https://purdue-orbital.github.io/git-for-orbital/).__
