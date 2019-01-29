@@ -5,7 +5,7 @@ Git is one of the most popular version control systems in the software world, an
 ## Windows PC
 Go to the link below, download git for windows, and click "Next" through the setup wizard.
 
-https://gitforwindows.org/
+[https://gitforwindows.org/](https://gitforwindows.org/)
 ## Mac OS
 Go to your terminal. This can be accomplished by hitting <kbd>command</kbd> + <kbd>space</kbd> and by typing `terminal`. Git should already be installed on Mac OS, and you can check your version by typing
 
