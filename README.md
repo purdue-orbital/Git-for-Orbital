@@ -55,7 +55,7 @@ $ git push origin master
 ```
 
 ## Committing and Pushing New Changes on an Existing Remote
-If you have already set a remote, then the process is even more simple:
+If you have already set a remote, then the process is as follows:
 ```shell
 $ git add .
 $ git commit -m "Your custom commit message here"
