@@ -27,11 +27,13 @@ Think of committing as creating a snapshot of how your code is at that current m
 $ git add .
 ``` 
 * `.` refers to the current directory and all its contents. To just add one file specifically, just replace the `.` with the desired file name. For example, if we just wanted to add `my_file.c`, you would run `git add my_file.c`.
+
 2) To see which files have been staged for committing, run 
 ```
 $ git status
 ```
 This allows us to see which files we are about to add, as well as confirm what files we are not adding. 
+
 3) Once we have verified that what we have added is correct, run 
 ```
 $ git commit -m "Initial commit"
